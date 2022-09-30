@@ -1,0 +1,16 @@
+#nav-links-login {
+    display: flex;
+}
+
+.nav-link-login {
+    font: normal normal normal 14px/19px Avenir;
+    letter-spacing: 1.05px;
+    color: #565657;
+    text-transform: capitalize;
+    opacity: 1;
+    height: 100%;
+    width: 7em;
+    text-align: center;
+    padding: 2em 0;
+    border-left: 1px solid #cccce0;
+}
